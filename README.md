@@ -26,6 +26,7 @@ Play the game on repl [here](https://repl.it/@fs0/TimelyDarkcyanInterfaces). Bel
 
 #### notes/decisions/assumptions made to reader:
   - every player gets to play each other once
+  - extra credit achieved - it is randomly decided who goes first
   - players recover to full health after match
   - I made max slap damage more random to allow for greater variance in results
   - I forgoed created a scoreboard class as I delegated/spread the logic by to different classes instead of scoreboard. In the future should I extend this game I would probably bring logic and the responsiblity back into a scoreboard class.
